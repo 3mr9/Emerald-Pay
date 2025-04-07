@@ -108,7 +108,7 @@ export default function App() {
       )}
       <p style={{ color: "gray", opacity: "30%" }}>
         created by <a href="https://x.com/_3mr9_" target="_blank">@_3mr9_</a>.
-        <a href="https://github.com/3mr9" target="_blank">this project in on gitHub</a>.
+        <a href="https://github.com/3mr9/Emerald-Pay" target="_blank">this project in on gitHub</a>.
       </p>
       <p style={{ color: "gray", opacity: "30%", textAlign: 'center' }}>
       NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.<br />
